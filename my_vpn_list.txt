@@ -527,3 +527,16 @@ zohomail.com
 zona.media
 1e100.net
 1688.com
+gemini.google.com
+generativelanguage.googleapis.com
+aistudio.google.com
+ai.google.dev
+alkali.generativelanguage.googleapis.com
+whatsapp.com
+whatsapp.net
+wa.me
+telegram.org
+telegram.dog
+t.me
+tdesktop.com
+telegra.ph
