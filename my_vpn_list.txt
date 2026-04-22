@@ -540,3 +540,8 @@ telegram.dog
 t.me
 tdesktop.com
 telegra.ph
+telesco.pe
+telegram-cdn.org
+tgraph.io
+tx.me
+legion.web.telegram.org
